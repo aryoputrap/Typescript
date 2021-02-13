@@ -1,2 +1,2 @@
-# Typescript
-### BOILER PLATE TYPESCRIPT
+### Typescript
+
