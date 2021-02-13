@@ -1,0 +1,2 @@
+# Typescript
+###BOILER PLATE TYPESCRIPT
